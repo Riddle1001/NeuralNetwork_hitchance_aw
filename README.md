@@ -12,4 +12,4 @@ You will see a string like this
 
 `C:\\Users\\Owner\\AppData\\Roaming\\EiuNDcMuKwIRKrPXEsTrJreP\\vFYfAogessHCds\\accuracy_output3_mapped.txt`
 
-This is my aimware directory, change it to yours but keep the ending `accuracy_output3_mapped.txt`
+This is my aimware directory, change it to yours but keep the ending "`accuracy_output3_mapped.txt`"
