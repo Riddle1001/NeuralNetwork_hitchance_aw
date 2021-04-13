@@ -71,7 +71,7 @@ end
 callbacks.Register("AimbotTarget", function(target)
 	if not enable_nn:GetValue() then return end
 	
-	if target:GetIndex() then
+	if target.GetIndex and target:GetIndex() then
 		Target = target
 		SetValues(Target)
 	else
