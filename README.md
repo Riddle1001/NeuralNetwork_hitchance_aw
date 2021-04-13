@@ -12,7 +12,7 @@ You will see a string like this
 
 `C:\\Users\\Owner\\AppData\\Roaming\\EiuNDcMuKwIRKrPXEsTrJreP\\vFYfAogessHCds`
 
-This is my aimware directory, change it to yours but keep the ending "`mapped_data.txt`"
+This is my aimware directory, change it to yours
 
 After you have done that download the mapped_data.txt file and place it into your aimware folder
 
