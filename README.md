@@ -3,6 +3,7 @@
 Download NodeJS LTS https://nodejs.org/en/
 
 After downloading NodeJS open CMD and type "npm install brain.js".
+After you downloaded brain.js, type, "npm install express"
 
 Then download net.js from this github, above
 
