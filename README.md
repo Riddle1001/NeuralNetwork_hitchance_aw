@@ -12,7 +12,7 @@ You will see a string like this
 
 `C:\\Users\\Owner\\AppData\\Roaming\\EiuNDcMuKwIRKrPXEsTrJreP\\vFYfAogessHCds`
 
-This is my aimware directory, change it to yours
+This is my aimware directory, change it to your aimware directory location, where your luas are stored
 
 After you have done that download the mapped_data.txt file and place it into your aimware folder
 
