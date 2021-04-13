@@ -46,7 +46,7 @@ callbacks.Register("Draw", function()
 		oaccuracy_slider = accuracy_slider:GetValue()
 	end
 	
-	gui.SetValue("rbot.aim.enable", enable_nn:GetValue())
+	
 	
 	hitchance_slider:SetValue(gui.GetValue("rbot.accuracy.weapon.asniper.hitchance"))
 	dt_hitchance_slider:SetValue(gui.GetValue("rbot.accuracy.weapon.asniper.doublefirehc"))
