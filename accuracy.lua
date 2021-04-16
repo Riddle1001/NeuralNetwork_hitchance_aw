@@ -109,6 +109,14 @@ end
 
 callbacks.Register("Draw", function()
 	if not enable_nn:GetValue() then return end
+	
+	local fd_key = gui.GetValue("rbot.antiaim.extra.fakecrouchkey")
+	
+	if fd_key ~= 0 and input.IsButtonDown(fd_key) then
+		gui.SetValue("rbot.accuracy.weapon.asniper.hitchance", 50)
+		return
+	end
+	
 	local closest_enemy = closest_to_crosshair()
 	if Target then
 		SetValues(Target)
